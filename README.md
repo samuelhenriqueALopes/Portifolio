@@ -45,7 +45,7 @@
 ---
 
 ## 🔗 Links Úteis
-* 🌐 **Demo Online:** [Acesse o portfólio](https://portifolio-kappa-weld-82.vercel.app)
+* 🌐 **Demo Online:** [Acesse o portfólio](https://samuelhenrique.vercel.app)
 * 🎨 **Protótipos (Figma):** [Wireframes de média fidelidade](<PREENCHER-link-do-figma>)
 
 ---
